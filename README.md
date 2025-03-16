@@ -43,10 +43,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Pauloxc6/Pauloxc6/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://www.instagram.com/pauloxc6/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
