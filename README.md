@@ -36,11 +36,11 @@
 </div>
 
 ###
-
+<!--
 <div align="center">
   <img src="https://profile-counter.glitch.me/Pauloxc6/count.svg?"  />
 </div>
-
+-->
 ###
 
 <div align="center">
